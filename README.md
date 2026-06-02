@@ -17,7 +17,7 @@ This repository stores the current version of my Linux desktop dotfiles from `~/
 - `screen`
 - `wallpapers`
 - `waybar`
-- `wofi`
+- wofi
 
 ## Dependencies
 
